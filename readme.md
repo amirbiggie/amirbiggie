@@ -2,7 +2,7 @@
 ## Software Engineer <br>
 <img align="left" width="240" src="https://media.tenor.com/IpAyHtYc--gAAAAi/charizard-flying.gif"> <samp> <br>
   👨‍💻 Last seen: I'm Learn new Skills<br>
-      Based: Urmia - IR<br>
+      Based: RASHT - IR<br>
 </samp>
 
 # My Skills :
