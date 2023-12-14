@@ -1,1 +1,23 @@
-![contributions](https://github.com/AMIR-BIGGIE/AMIR-BIGGIE/assets/153823501/afa0e7b4-9d15-4382-8d29-e45c122d1c73)
+# AMIR-BIGGIE
+## Software Engineer <br>
+<img align="left" width="240" src="https://media.tenor.com/IpAyHtYc--gAAAAi/charizard-flying.gif"> <samp> <br>
+  👨‍💻 Last seen: I'm Learn new Skills<br>
+      Based: Urmia - IR<br>
+</samp>
+
+# My Skills :
+<samp>
++ PYTHON,
+- HTMl , 
+- CSS , 
+- PHP , 
+- JS , 
++ SQL , 
+, 
+and more..!
+</samp>
+<br>
+
+I like Programming :)
+
+
