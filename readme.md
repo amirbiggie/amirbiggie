@@ -7,13 +7,12 @@
 
 # My Skills :
 <samp>
-+ PYTHON,
-- HTMl , 
-- CSS , 
-- PHP , 
-- JS , 
-+ SQL , 
-, 
+ PYTHON ,
+ GIT , 
+ JANGO , 
+ PHP , 
+ ANGIL  , 
+ SQL ,  
 and more..!
 </samp>
 <br>
