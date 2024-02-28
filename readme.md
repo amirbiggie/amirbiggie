@@ -10,7 +10,7 @@
  PYTHON ,
  GIT , 
  JANGO , 
- PHP , 
+ FAST API , 
  ANGIL  , 
  SQL ,  
 and more..!
