@@ -2,7 +2,7 @@
 ## Software Engineer 
 <br>
 <img  align="left" width="250" src="https://media.tenor.com/IpAyHtYc--gAAAAi/charizard-flying.gif"><samp><br>
-<img  align="right" width="300" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif"
+<img  align="right" width="210" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif"
 
 
   👨‍💻 Last seen: I'm Learn new Skills<br>
