@@ -1,7 +1,7 @@
 # AMIR-BIGGIE
 ## Software Engineer 
 <br>
-<img align="left" width="240" height="200" src="https://media.tenor.com/IpAyHtYc--gAAAAi/charizard-flying.gif"><samp><br>
+<img align="left"padding-top="30" width="240" src="https://media.tenor.com/IpAyHtYc--gAAAAi/charizard-flying.gif"><samp><br>
 
   👨‍💻 Last seen: I'm Learn new Skills<br>
       Based: RASHT - IR<br>
